@@ -1,6 +1,7 @@
 {
-  "users" : 
-   {
+  "users" :[
+  
+  {
      "id":"bplapla",
       "name" : "Ivo",
       "surname" : "Yosifov"
@@ -10,5 +11,5 @@
       "name" : "Dis",
       "surname" : "Poppi"
     }
-  }
+  ]
 }
