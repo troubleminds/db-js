@@ -1,10 +1,12 @@
 {
   "users" : {
     "bplapla" : {
+      "id":"bplapla",
       "name" : "Ivo",
       "surname" : "Yosifov"
     },
     "praspras" : {
+      "id":"praspras",
       "name" : "Dis",
       "surname" : "Poppi"
     }
