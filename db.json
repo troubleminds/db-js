@@ -1,15 +1,12 @@
 {
-  "users" :[
-  
-  {
-     "id":"bplapla",
+  "users" : {
+    "bplapla" : {
       "name" : "Ivo",
       "surname" : "Yosifov"
     },
-    {
-      "id":"praspras",
+    "praspras" : {
       "name" : "Dis",
       "surname" : "Poppi"
     }
-  ]
+  }
 }
