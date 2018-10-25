@@ -1,14 +1,12 @@
 {
-"firstnode" :
-[
-{"id":1},
-{"id":2}
-
-],
-
-"secondnode" :[
-{"id":1},
-{"id":2}
-
-]
+  "users" : {
+    "bplapla" : {
+      "name" : "Ivo",
+      "surname" : "Yosifov"
+    },
+    "praspras" : {
+      "name" : "Dis",
+      "surname" : "Poppi"
+    }
+  }
 }
